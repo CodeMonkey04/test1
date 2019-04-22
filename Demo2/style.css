@@ -1,3 +1,27 @@
 p {
     color: deeppink; 
+    font-size: 1cm
 }
+#arnstad {
+    border: 3px maroon solid;
+    padding: 10px;
+    box-shadow: 5px 10px;
+    margin:10px;
+    padding:0;
+  }
+  #loven {
+    border: 3px red solid;
+    padding: 10px;
+    box-shadow: 5px 10px;
+    margin:10px;
+    padding:0;
+  }
+
+  #box {
+    background-color:goldenrod;
+    height:200px;
+    width: 500px;
+    margin:10px;
+    text-align: center;
+    vertical-align: middle;
+  }
